@@ -1,3 +1,3 @@
 # Oasis-Task1
-# Unit Converter App
+# Stop Watch App
 # Oasis Infobyte Internship
